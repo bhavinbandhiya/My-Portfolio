@@ -260,6 +260,7 @@ body {
   height: 370px;
   width: 100%;
   overflow: hidden;
+  margin-top: 35px;
 }
 .skills .content .col-right {
   position: relative;
