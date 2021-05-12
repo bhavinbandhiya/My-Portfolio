@@ -316,7 +316,7 @@ body {
   background: #e3a324;
 }
 
-.skills .content .col-right .bar .bootstrep::before {
+.skills .content .col-right .bar .bootstrap::before {
   width: 78%;
   background: #553c7b;
 }
